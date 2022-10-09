@@ -62,6 +62,7 @@ export const Portfolio = ({ portfolioItem }) => {
                       'no-underline hover:underline'
                     )}
                     target='_blank'
+                    rel='noreferrer'
                   >
                     {quickLink.text}
                   </a>

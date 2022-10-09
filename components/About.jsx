@@ -51,6 +51,7 @@ export const About = ({ about }) => {
                   href={quickLink.url}
                   className='no-underline hover:text-yellow-two hover:underline'
                   target='_blank'
+                  rel='noreferrer'
                 >
                   {quickLink.text}
                 </a>
