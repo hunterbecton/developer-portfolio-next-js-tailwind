@@ -16,7 +16,7 @@ export const About = ({ about }) => {
           <h1 className='mb-1 md:mb-2 text-subtitle-sm md:text-subtitle-base text-neutral-five uppercase'>
             {about.job}
           </h1>
-          <h2 className='font-mono text-headline-xl md:text-headline-2xl lg:text-headline-3xl text-neutral-one'>
+          <h2 className='font-mono text-headline-lg md:text-headline-xl lg:text-headline-2xl text-neutral-one'>
             {about.name}
           </h2>
         </div>

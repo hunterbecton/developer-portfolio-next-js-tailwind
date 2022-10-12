@@ -11,7 +11,7 @@ export const Portfolio = ({ portfolioItem }) => {
           'flex justify-between items-end p-6 md:px-16 md:pt-16 md:pb-8 lg:px-20 lg:pt-20 lg:pb-10'
         )}
       >
-        <h3 className='text-neutral-one font-mono text-headline-base md:text-headline-2xl lg:text-headline-3xl'>
+        <h3 className='text-neutral-one font-mono text-headline-base md:text-headline-xl lg:text-headline-2xl'>
           {portfolioItem.title}
         </h3>
         <div className='bg-neutral-ten p-6 md:p-10'>

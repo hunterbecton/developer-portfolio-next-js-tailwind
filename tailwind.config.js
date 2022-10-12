@@ -44,9 +44,9 @@ module.exports = {
     },
     fontSize: {
       'headline-base': ['1.875rem', '2.25rem'],
-      'headline-xl': ['2.25rem', '2.5rem'],
-      'headline-2xl': ['3rem', '1'],
-      'headline-3xl': ['3.75rem', '1'],
+      'headline-lg': ['2.25rem', '2.5rem'],
+      'headline-xl': ['3rem', '1'],
+      'headline-2xl': ['3.75rem', '1'],
       'paragraph-sm': ['0.875rem', '1.25rem'],
       'paragraph-base': ['1rem', '1.5rem'],
       'subtitle-xs': [
